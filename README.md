@@ -1,0 +1,2 @@
+# AltTracker
+Cryptocurrency monitor
